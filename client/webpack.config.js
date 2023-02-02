@@ -32,12 +32,12 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'J.A.T.E',
-        short_name: 'Contact',
-        description: 'Never forget your contacts!',
+        short_name: 'Jate',
+        description: 'Just another text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: '/',
-        publicPath: '/',
+        publicPath: './',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
