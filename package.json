@@ -20,6 +20,8 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack-dev-server": "^4.1.1",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }

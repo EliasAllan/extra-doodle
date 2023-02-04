@@ -23,8 +23,6 @@ warmStrategyCache({
   urls: [
     "/index.html",
     "/",
-    //  '/src/images',
-    //  '/src/js'
   ],
   strategy: pageCache,
 });
